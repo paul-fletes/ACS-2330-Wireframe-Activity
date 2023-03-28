@@ -25,14 +25,24 @@ Follow this guide on wire framing: https://careerfoundry.com/en/blog/ux-design/h
       - Page Title: SFPOPOS
       - Sub title: San Francisco Privately Owned Public Open Spaces
     - Nav
-      - NavLink: Home
+      - NavLink: List
       - NavLink: About
-    ...
+      - NavBtn: RandomSpace
+      - Search
+    - List
+      - Spaces in grid
+        - Detail view
+          - Image
+          - Title
+          - Description
+          - Hours
+          - Features
+          - Address
 ```
 
 ### Wireframes
 
-
+(I'll either add a link to figma, or add images here.)
 
 ### Assess your work
 
