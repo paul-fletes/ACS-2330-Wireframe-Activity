@@ -42,7 +42,9 @@ Follow this guide on wire framing: https://careerfoundry.com/en/blog/ux-design/h
 
 ### Wireframes
 
-(I'll either add a link to figma, or add images here.)
+To view wireframes for the Desktop version of the site [click here](https://miro.com/app/board/uXjVMXxEETw=/?share_link_id=426004006976).
+
+To view wireframes for the Mobile version of the site [click here](_blank)
 
 ### Assess your work
 
