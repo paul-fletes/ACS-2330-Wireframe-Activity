@@ -25,12 +25,12 @@ Follow this guide on wire framing: https://careerfoundry.com/en/blog/ux-design/h
       - Page Title: SFPOPOS
       - Sub title: San Francisco Privately Owned Public Open Spaces
     - Nav
-      - NavLink: List
+      - NavLink: Home
       - NavLink: About
-      - NavBtn: RandomSpace
+      - NavLink: Register
       - Search
     - List
-      - Spaces in grid
+      - Spaces in grid/carousel(mobile)
         - Detail view
           - Image
           - Title
@@ -38,6 +38,12 @@ Follow this guide on wire framing: https://careerfoundry.com/en/blog/ux-design/h
           - Hours
           - Features
           - Address
+    - Register
+      - Registration form fields
+        - First name
+        - Last name
+        - Email
+        - Submit
 ```
 
 ### Wireframes
